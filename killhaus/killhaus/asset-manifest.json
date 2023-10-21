@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/killhaus/static/css/main.913fce5e.css",
-    "main.js": "/killhaus/static/js/main.b0066041.js",
+    "main.css": "/killhaus/static/css/main.c69b952d.css",
+    "main.js": "/killhaus/static/js/main.327dda68.js",
     "static/js/787.3a2fffef.chunk.js": "/killhaus/static/js/787.3a2fffef.chunk.js",
     "static/media/Inter-Bold.ttf": "/killhaus/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
     "static/media/Inter-SemiBold.ttf": "/killhaus/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
     "static/media/Inter-Regular.ttf": "/killhaus/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
     "index.html": "/killhaus/index.html",
-    "main.913fce5e.css.map": "/killhaus/static/css/main.913fce5e.css.map",
-    "main.b0066041.js.map": "/killhaus/static/js/main.b0066041.js.map",
+    "main.c69b952d.css.map": "/killhaus/static/css/main.c69b952d.css.map",
+    "main.327dda68.js.map": "/killhaus/static/js/main.327dda68.js.map",
     "787.3a2fffef.chunk.js.map": "/killhaus/static/js/787.3a2fffef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.913fce5e.css",
-    "static/js/main.b0066041.js"
+    "static/css/main.c69b952d.css",
+    "static/js/main.327dda68.js"
   ]
 }
